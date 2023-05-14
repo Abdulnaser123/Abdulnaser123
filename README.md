@@ -1,5 +1,5 @@
 ![photo_2023-03-18_11-44-34 (2)](https://user-images.githubusercontent.com/108693961/226169368-788235af-3a87-42fb-9786-62d3fbaae2e0.jpg)
-## <span><img src="https://www.computerhope.com/jargon/c/curly-bracket.png" alt="langs" width="40"> Langs & Tools</span>
+### <span style="text-align:center;"><img src="https://cdn-icons-png.flaticon.com/512/5111/5111503.png" alt="langs" width="40">Langs & Tools<img src="https://cdn-icons-png.flaticon.com/512/5111/5111519.png" alt="langs" width="40"></span>
   <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Abdulnaser123's Streak" width="80" >
     <img src="https://cdn-icons-png.flaticon.com/512/1183/1183618.png" alt="Abdulnaser123's Streak" width="80" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="Abdulnaser123's Streak" width="80" >
