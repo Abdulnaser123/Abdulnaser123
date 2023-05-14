@@ -16,6 +16,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Abdulnaser123's Streak" width="80" >
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Abdulnaser123's Streak" width="80" >
     <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="Abdulnaser123's Streak" width="80" ></span>
+        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Abdulnaser123's Streak" width="80" ></span>
 
 
 
