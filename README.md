@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Abdelnasser, a full-stack software engineer from palestine. I'm passionate about creating clean, efficient, and user-friendly code. In my free time, I enjoy hiking, photography, and trying out new coffee shops, The last two, I'm not right.
+I'm Abdelnasser, a full-stack software engineer from palestine. I'm passionate about creating clean, efficient, and user-friendly code. In my free time, I enjoy reading, writing, learning something useful to know the secret of your existence in this life.
 <p align="center">
   <img src="https://media1.giphy.com/media/LaVp0AyqR5bGsC5Cbm/200w.gif?cid=6c09b9523bl535956jxvhzosc6rl5yg9a50cr9l7vfziohs2&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200">
 </p>
