@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Abdelnasser, a full-stack software engineer from palestine. I'm passionate about creating clean, efficient, and user-friendly code. In my free time, I enjoy with reading, writing, learning, and making something useful can help me in temporary and eternal life
+### Hi there 
+I'm Abdelnasser, a full-stack software engineer from palestine. I'm passionate about creating clean, efficient, and user-friendly code. In my free time, I enjoy with reading, writing, learning, and making something useful can help me in temporary and eternal life🤲🤍
 
 
 ### Skills and Tools
