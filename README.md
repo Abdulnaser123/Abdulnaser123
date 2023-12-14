@@ -12,7 +12,6 @@ This is Abdelnasser, a full-stack software engineer. My passion lies in creating
 
 ### Contact Me
 
-- Email: abodkar96@gmail.com
 - LinkedIn: https://www.linkedin.com/in/abdelnasserobeid/
 
 
